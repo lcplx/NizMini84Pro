@@ -10,90 +10,90 @@
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </PredefinedEmu>
 <BackgroundLightSettings>
-<AREA ID="1" Red="0" Green="255" Blue="0"/>
-<AREA ID="2" Red="255" Green="0" Blue="0"/>
-<AREA ID="3" Red="255" Green="0" Blue="0"/>
-<AREA ID="4" Red="255" Green="0" Blue="0"/>
-<AREA ID="5" Red="255" Green="0" Blue="0"/>
-<AREA ID="6" Red="255" Green="0" Blue="0"/>
-<AREA ID="7" Red="255" Green="0" Blue="0"/>
-<AREA ID="8" Red="255" Green="0" Blue="0"/>
-<AREA ID="9" Red="255" Green="0" Blue="0"/>
-<AREA ID="10" Red="255" Green="0" Blue="0"/>
-<AREA ID="11" Red="255" Green="0" Blue="0"/>
-<AREA ID="12" Red="255" Green="0" Blue="0"/>
-<AREA ID="13" Red="255" Green="0" Blue="0"/>
-<AREA ID="14" Red="0" Green="255" Blue="255"/>
-<AREA ID="15" Red="0" Green="255" Blue="255"/>
-<AREA ID="16" Red="0" Green="255" Blue="255"/>
-<AREA ID="17" Red="0" Green="255" Blue="0"/>
-<AREA ID="18" Red="255" Green="0" Blue="255"/>
-<AREA ID="19" Red="255" Green="0" Blue="255"/>
-<AREA ID="20" Red="255" Green="0" Blue="255"/>
-<AREA ID="21" Red="255" Green="0" Blue="255"/>
-<AREA ID="22" Red="255" Green="0" Blue="255"/>
-<AREA ID="23" Red="255" Green="0" Blue="255"/>
-<AREA ID="24" Red="255" Green="255" Blue="0"/>
-<AREA ID="25" Red="255" Green="255" Blue="0"/>
-<AREA ID="26" Red="255" Green="255" Blue="0"/>
-<AREA ID="27" Red="255" Green="255" Blue="0"/>
-<AREA ID="28" Red="255" Green="0" Blue="255"/>
-<AREA ID="29" Red="255" Green="0" Blue="255"/>
-<AREA ID="30" Red="0" Green="255" Blue="0"/>
-<AREA ID="31" Red="0" Green="255" Blue="255"/>
-<AREA ID="32" Red="0" Green="255" Blue="0"/>
-<AREA ID="33" Red="255" Green="0" Blue="255"/>
-<AREA ID="34" Red="255" Green="0" Blue="255"/>
-<AREA ID="35" Red="255" Green="0" Blue="255"/>
-<AREA ID="36" Red="255" Green="0" Blue="255"/>
-<AREA ID="37" Red="255" Green="0" Blue="255"/>
-<AREA ID="38" Red="255" Green="0" Blue="255"/>
-<AREA ID="39" Red="255" Green="255" Blue="0"/>
-<AREA ID="40" Red="255" Green="255" Blue="0"/>
-<AREA ID="41" Red="255" Green="255" Blue="0"/>
-<AREA ID="42" Red="255" Green="255" Blue="0"/>
-<AREA ID="43" Red="255" Green="0" Blue="255"/>
-<AREA ID="44" Red="255" Green="0" Blue="255"/>
-<AREA ID="45" Red="0" Green="255" Blue="0"/>
-<AREA ID="46" Red="0" Green="255" Blue="255"/>
-<AREA ID="47" Red="0" Green="255" Blue="0"/>
-<AREA ID="48" Red="255" Green="0" Blue="255"/>
-<AREA ID="49" Red="255" Green="0" Blue="255"/>
-<AREA ID="50" Red="255" Green="0" Blue="255"/>
-<AREA ID="51" Red="255" Green="0" Blue="255"/>
-<AREA ID="52" Red="255" Green="0" Blue="255"/>
-<AREA ID="53" Red="255" Green="0" Blue="255"/>
-<AREA ID="54" Red="255" Green="255" Blue="0"/>
-<AREA ID="55" Red="255" Green="255" Blue="0"/>
-<AREA ID="56" Red="255" Green="255" Blue="0"/>
-<AREA ID="57" Red="255" Green="255" Blue="0"/>
-<AREA ID="58" Red="255" Green="0" Blue="255"/>
-<AREA ID="59" Red="0" Green="255" Blue="0"/>
-<AREA ID="60" Red="0" Green="255" Blue="255"/>
-<AREA ID="61" Red="0" Green="255" Blue="0"/>
-<AREA ID="62" Red="255" Green="0" Blue="255"/>
-<AREA ID="63" Red="255" Green="0" Blue="255"/>
-<AREA ID="64" Red="255" Green="0" Blue="255"/>
-<AREA ID="65" Red="255" Green="0" Blue="255"/>
-<AREA ID="66" Red="255" Green="0" Blue="255"/>
-<AREA ID="67" Red="255" Green="0" Blue="255"/>
-<AREA ID="68" Red="255" Green="255" Blue="0"/>
-<AREA ID="69" Red="255" Green="255" Blue="0"/>
-<AREA ID="70" Red="255" Green="255" Blue="0"/>
-<AREA ID="71" Red="255" Green="255" Blue="0"/>
-<AREA ID="72" Red="0" Green="255" Blue="0"/>
-<AREA ID="73" Red="0" Green="0" Blue="255"/>
-<AREA ID="74" Red="0" Green="255" Blue="255"/>
-<AREA ID="75" Red="0" Green="255" Blue="0"/>
-<AREA ID="76" Red="0" Green="255" Blue="0"/>
-<AREA ID="77" Red="0" Green="255" Blue="0"/>
-<AREA ID="78" Red="255" Green="0" Blue="255"/>
-<AREA ID="79" Red="0" Green="255" Blue="0"/>
-<AREA ID="80" Red="255" Green="255" Blue="255"/>
-<AREA ID="81" Red="0" Green="255" Blue="0"/>
-<AREA ID="82" Red="0" Green="0" Blue="255"/>
-<AREA ID="83" Red="0" Green="0" Blue="255"/>
-<AREA ID="84" Red="0" Green="0" Blue="255"/>
+<AREA ID="1" Red="0" Green="0" Blue="0"/>
+<AREA ID="2" Red="0" Green="0" Blue="0"/>
+<AREA ID="3" Red="0" Green="0" Blue="0"/>
+<AREA ID="4" Red="0" Green="0" Blue="0"/>
+<AREA ID="5" Red="0" Green="0" Blue="0"/>
+<AREA ID="6" Red="0" Green="0" Blue="0"/>
+<AREA ID="7" Red="0" Green="0" Blue="0"/>
+<AREA ID="8" Red="0" Green="0" Blue="0"/>
+<AREA ID="9" Red="0" Green="0" Blue="0"/>
+<AREA ID="10" Red="0" Green="0" Blue="0"/>
+<AREA ID="11" Red="0" Green="0" Blue="0"/>
+<AREA ID="12" Red="0" Green="0" Blue="0"/>
+<AREA ID="13" Red="0" Green="0" Blue="0"/>
+<AREA ID="14" Red="0" Green="0" Blue="0"/>
+<AREA ID="15" Red="0" Green="0" Blue="0"/>
+<AREA ID="16" Red="0" Green="0" Blue="0"/>
+<AREA ID="17" Red="0" Green="0" Blue="0"/>
+<AREA ID="18" Red="0" Green="0" Blue="0"/>
+<AREA ID="19" Red="0" Green="0" Blue="0"/>
+<AREA ID="20" Red="0" Green="0" Blue="0"/>
+<AREA ID="21" Red="0" Green="0" Blue="0"/>
+<AREA ID="22" Red="0" Green="0" Blue="0"/>
+<AREA ID="23" Red="0" Green="0" Blue="0"/>
+<AREA ID="24" Red="0" Green="0" Blue="0"/>
+<AREA ID="25" Red="0" Green="0" Blue="0"/>
+<AREA ID="26" Red="0" Green="0" Blue="0"/>
+<AREA ID="27" Red="0" Green="0" Blue="0"/>
+<AREA ID="28" Red="0" Green="0" Blue="0"/>
+<AREA ID="29" Red="0" Green="0" Blue="0"/>
+<AREA ID="30" Red="0" Green="0" Blue="0"/>
+<AREA ID="31" Red="0" Green="0" Blue="0"/>
+<AREA ID="32" Red="0" Green="0" Blue="0"/>
+<AREA ID="33" Red="0" Green="0" Blue="0"/>
+<AREA ID="34" Red="0" Green="0" Blue="0"/>
+<AREA ID="35" Red="0" Green="0" Blue="0"/>
+<AREA ID="36" Red="0" Green="0" Blue="0"/>
+<AREA ID="37" Red="0" Green="0" Blue="0"/>
+<AREA ID="38" Red="0" Green="0" Blue="0"/>
+<AREA ID="39" Red="0" Green="0" Blue="0"/>
+<AREA ID="40" Red="0" Green="0" Blue="0"/>
+<AREA ID="41" Red="0" Green="0" Blue="0"/>
+<AREA ID="42" Red="0" Green="0" Blue="0"/>
+<AREA ID="43" Red="0" Green="0" Blue="0"/>
+<AREA ID="44" Red="0" Green="0" Blue="0"/>
+<AREA ID="45" Red="0" Green="0" Blue="0"/>
+<AREA ID="46" Red="0" Green="0" Blue="0"/>
+<AREA ID="47" Red="0" Green="0" Blue="0"/>
+<AREA ID="48" Red="0" Green="0" Blue="0"/>
+<AREA ID="49" Red="0" Green="0" Blue="0"/>
+<AREA ID="50" Red="0" Green="0" Blue="0"/>
+<AREA ID="51" Red="0" Green="0" Blue="0"/>
+<AREA ID="52" Red="0" Green="0" Blue="0"/>
+<AREA ID="53" Red="0" Green="0" Blue="0"/>
+<AREA ID="54" Red="0" Green="0" Blue="0"/>
+<AREA ID="55" Red="0" Green="0" Blue="0"/>
+<AREA ID="56" Red="0" Green="0" Blue="0"/>
+<AREA ID="57" Red="0" Green="0" Blue="0"/>
+<AREA ID="58" Red="0" Green="0" Blue="0"/>
+<AREA ID="59" Red="0" Green="0" Blue="0"/>
+<AREA ID="60" Red="0" Green="0" Blue="0"/>
+<AREA ID="61" Red="0" Green="0" Blue="0"/>
+<AREA ID="62" Red="0" Green="0" Blue="0"/>
+<AREA ID="63" Red="0" Green="0" Blue="0"/>
+<AREA ID="64" Red="0" Green="0" Blue="0"/>
+<AREA ID="65" Red="0" Green="0" Blue="0"/>
+<AREA ID="66" Red="0" Green="0" Blue="0"/>
+<AREA ID="67" Red="0" Green="0" Blue="0"/>
+<AREA ID="68" Red="0" Green="0" Blue="0"/>
+<AREA ID="69" Red="0" Green="0" Blue="0"/>
+<AREA ID="70" Red="0" Green="0" Blue="0"/>
+<AREA ID="71" Red="0" Green="0" Blue="0"/>
+<AREA ID="72" Red="0" Green="0" Blue="0"/>
+<AREA ID="73" Red="0" Green="0" Blue="0"/>
+<AREA ID="74" Red="0" Green="0" Blue="0"/>
+<AREA ID="75" Red="0" Green="0" Blue="0"/>
+<AREA ID="76" Red="0" Green="0" Blue="0"/>
+<AREA ID="77" Red="0" Green="0" Blue="0"/>
+<AREA ID="78" Red="0" Green="0" Blue="0"/>
+<AREA ID="79" Red="0" Green="0" Blue="0"/>
+<AREA ID="80" Red="0" Green="0" Blue="0"/>
+<AREA ID="81" Red="0" Green="0" Blue="0"/>
+<AREA ID="82" Red="0" Green="0" Blue="0"/>
+<AREA ID="83" Red="0" Green="0" Blue="0"/>
+<AREA ID="84" Red="0" Green="0" Blue="0"/>
 </BackgroundLightSettings>
 <CurrentSettings>
 <KEY ID="1" Level="0" Mode="1" HWCode="1">
@@ -431,7 +431,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="12" Level="1" Mode="7" HWCode="182">
+<KEY ID="12" Level="1" Mode="7" HWCode="170">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -441,7 +441,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="12" Level="3" Mode="7" HWCode="182">
+<KEY ID="12" Level="3" Mode="7" HWCode="170">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -451,7 +451,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="12" Level="5" Mode="7" HWCode="182">
+<KEY ID="12" Level="5" Mode="7" HWCode="170">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1211,7 +1211,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="38" Level="1" Mode="1" HWCode="81">
+<KEY ID="38" Level="1" Mode="7" HWCode="176">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1241,7 +1241,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="39" Level="1" Mode="1" HWCode="82">
+<KEY ID="39" Level="1" Mode="1" HWCode="97">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1271,7 +1271,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="40" Level="1" Mode="1" HWCode="83">
+<KEY ID="40" Level="1" Mode="1" HWCode="98">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1481,7 +1481,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="47" Level="1" Mode="0" HWCode="67">
+<KEY ID="47" Level="1" Mode="0" HWCode="0">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1631,7 +1631,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="52" Level="1" Mode="1" HWCode="81">
+<KEY ID="52" Level="1" Mode="7" HWCode="171">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1661,7 +1661,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="53" Level="1" Mode="1" HWCode="88">
+<KEY ID="53" Level="1" Mode="1" HWCode="82">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1691,7 +1691,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="54" Level="1" Mode="1" HWCode="89">
+<KEY ID="54" Level="1" Mode="1" HWCode="100">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1721,7 +1721,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="55" Level="1" Mode="1" HWCode="87">
+<KEY ID="55" Level="1" Mode="1" HWCode="101">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1751,7 +1751,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="56" Level="1" Mode="1" HWCode="90">
+<KEY ID="56" Level="1" Mode="1" HWCode="102">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1901,7 +1901,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="61" Level="1" Mode="7" HWCode="198">
+<KEY ID="61" Level="1" Mode="0" HWCode="0">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1911,7 +1911,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="61" Level="3" Mode="7" HWCode="198">
+<KEY ID="61" Level="3" Mode="0" HWCode="0">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -1921,7 +1921,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="61" Level="5" Mode="7" HWCode="198">
+<KEY ID="61" Level="5" Mode="0" HWCode="0">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -2081,7 +2081,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="67" Level="1" Mode="1" HWCode="84">
+<KEY ID="67" Level="1" Mode="1" HWCode="85">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -2111,7 +2111,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="68" Level="1" Mode="1" HWCode="85">
+<KEY ID="68" Level="1" Mode="1" HWCode="103">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -2141,7 +2141,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="69" Level="1" Mode="1" HWCode="86">
+<KEY ID="69" Level="1" Mode="1" HWCode="203">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -2321,7 +2321,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="75" Level="1" Mode="0" HWCode="152">
+<KEY ID="75" Level="1" Mode="7" HWCode="152">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -2381,7 +2381,7 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="77" Level="1" Mode="0" HWCode="155">
+<KEY ID="77" Level="1" Mode="7" HWCode="155">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
